@@ -14,4 +14,4 @@
 |  2 | Thai Duc Dung       | tddung255@gmail.com           | thaiducdung255   |
 |  3 | Dam Quang Khoa      | dqkhoa02@gmail.com            | damquangkhoa     |
 |  4 | Nguyen Ngoc Bao Thy | nguyenngocbaothy238@gmail.com | nguyenngocbaothy |
-| 5  | Ly Chau Tri Nha     | lychautrinha@gmail.com        | 15110091         |
+|  5  | Ly Chau Tri Nha    |  lychautrinha@gmail.com       | 15110091         |
