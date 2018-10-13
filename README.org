@@ -1,4 +1,4 @@
-* Using Git
+﻿* Using Git
 
 ** Create new git repository
 
@@ -17,3 +17,4 @@
 |  5 | Đào Duy Tùng        | daoduytung9x@gmail.com        | kupintb          |
 |  6 | Ly Chau Tri Nha     | lychautrinha@gmail.com        | 15110091         |
 |  7 | Dang Nhat Hai Long  | hailongdang.hailong@gmail.com | nucasspro        |
+|  8 | Phan Le Duy Tan     | duytan.phanle@gmail.com       | tanpld           |
