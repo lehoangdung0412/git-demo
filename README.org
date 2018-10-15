@@ -18,3 +18,4 @@
 |  6 | Ly Chau Tri Nha     | lychautrinha@gmail.com        | 15110091         |
 |  7 | Dang Nhat Hai Long  | hailongdang.hailong@gmail.com | nucasspro        |
 |  8 | Phan Le Duy Tan     | duytan.phanle@gmail.com       | tanpld           |
+|  9 | Lê Kim Tấn Tài      | lekimtantai0401@gmail.com     | TaiMohamed       |
