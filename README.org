@@ -19,3 +19,4 @@
 |  7 | Dang Nhat Hai Long  | hailongdang.hailong@gmail.com | nucasspro        |
 |  8 | Phan Le Duy Tan     | duytan.phanle@gmail.com       | tanpld           |
 |  9 | Lê Kim Tấn Tài      | lekimtantai0401@gmail.com     | TaiMohamed       |
+| 10 | Trần Thành Trung    | tranthanhtrung1239@gmail.com  | tranthanhtrung   |
